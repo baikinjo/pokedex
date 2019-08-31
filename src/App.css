@@ -27,7 +27,14 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+h1 {
+  font-family: 'Chilanka';
+  font-size: 65px;
+  color: #0ccac4;
 }
